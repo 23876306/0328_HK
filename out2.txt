@@ -1,0 +1,82 @@
+ 發明專利證書-I368494-遠端即時心復健訓練與自動監控回覆裝置及方法  		發明人：吳明峰、溫志煜、許正園、王經篤 		專利權人：國立中興大學、行政院國軍退除役官兵輔導委員會台中榮民總醫院 		專利權期間：2012年7月21日至2029年1月9日止 
+ (U.S. Patent No. 10,409,844)  		Method for Extracting Maximal Repeat Patterns and Computing Frequency Distribution Tables.  		Applicant : Ching-Tu Wang, Taichung (TW)(Jing-Doo Wang)  		Inventor : Ching-Tu Wang, Taichung (TW)(Jing-Doo Wang)  		Period : 2019.9.10 - 2038.2.23 
+Book Title:  		"Bioinformatics in the Era of Post Genomics and Big Data" 	  Edited by: Prof. Ibrokhim Abdurakhmonov Publisher: InTechOpen November 2018 ISBN:978-953-51-6056-4  				Chapter: 				A novel approach to mine for genetic markers via comparing class frequency distributions of maximal repeats  					extracted from tagged whole genomic sequences Jing-Doo Wang  
+Edited by: Prof. Ibrokhim Abdurakhmonov
+Publisher: InTechOpen
+November 2018
+ISBN:978-953-51-6056-4 
+ 				Chapter: 				A novel approach to mine for genetic markers via comparing class frequency distributions of maximal repeats  					extracted from tagged whole genomic sequences Jing-Doo Wang 
+Book Title: Discoveries and Breakthroughs in Cognitive Informatics and Natural Intelligence Edited by: Yingxu Wang, University of Calgary, Canada November 2009 ISBN: 978-1-60566-902-1  				Chapter 28: Scaling Behavior of Maximal Repeat Distributions in Genomic Sequences --A Randomize Test Follow Up Study J.D. Wang and Ka-Lok Ng  	 		 
+Edited by: Yingxu Wang, University of Calgary, Canada
+November 2009
+ISBN: 978-1-60566-902-1 
+ 				Chapter 28: Scaling Behavior of Maximal Repeat Distributions in Genomic Sequences --A Randomize Test Follow Up Study J.D. Wang and Ka-Lok Ng  	 		
+   		Online Web query system for various frequency distributions of bus passengers in Taichung city of Taiwan  		 Jing-Doo Wang and Shin-Hung Pan *, Cheng-Yuan Ho, Shu-chuan Liao, Yao-Nan Lien and Achmad Nurmandi (*: Corresponding author)   	IET Smart Cities (Special issue:　Geospatial Sensing, Mining & Analytics for Smart Cities) 
+ (Submitted)   		Extracting Common DNA Sequences in Complete Genomes of 7538 Viruses and Five selected Mammals  Jing-Doo Wang, Yi-Chun Wang, Rouh-Mei Hu and Jeffrey Tsai International Journal of Data Mining and Bioinformatics (IJDMB) (SCIE) 
+ A Novel Approach to Extract Significant Time Interval Patterns of Vehicles from Freeway Gantry Timestamp Sequences Jing-Doo Wang and Ming-Chorng Hwang   Applied Sciences, 2017, 7(9), 878; doi:10.3390/app7090878. (SCIE, IF=1.679)        (Special Issue "Selected Papers from IEEE ICASI 2017")  
+  Extracting Significant Pattern Histories from Timestamped Texts using MapReduce Jing-Doo Wang     Journal of Supercomputing, 72(8), pp. 3236-3260, DOI 10.1007/s11227-016-1713-z, April 2016    (SCI, SCIE 2014 JCR ,IF=0.858,RANK=56/102, COMPUTER SCIENCE, THEORY & METHODS) 
+ Shape Query for Pattern History in PubMed Literatures via Haar Wavelet Jing-Doo Wang, Zhong-Kai Jiang, Jui-Chi Chen    International Journal of Advanced Information Technologies(IJAIT), Vol. 9 ;No. 6. pp. 67-76, December 2015.	 
+	Combination Therapy Using Chelating Agent and Zinc for Wilson’s Disease. 
+ A Novel BLAST-Based Relative Distance (BBRD) Method Can Effectively Group Members ofProtein ArginineMethyltransferases and Suggest their Evolutionary Relationship. 
+Mining for Representative Regions of Virus Genuses via Protein Sequences Clustering Jing-Doo Wang and Yi-Chun Wang International Journal of Data Mining and Bioinformatics   , Vol. 9, No. 3,  (2013 JCR, IF=0.655, Rank=48/65,MATHEMATICAL, COMPUTATIONAL BIOLOGY )    
+ Comparing Virus Classification using Genomic Materials according to Different Taxonomic Levels Jing-Doo Wang Journal of Bioinformatics and Computational Biology,   Vol. 11, No. 6, 1343003, November 2013 a special issue on GIW2013(SCIE(2013 JCR, IF=0.931, Rank=42/52,MATHEMATICAL; COMPUTATIONAL BIOLOGY)			   
+ An Approach to Evaluate the Fitness of One Class Structure via Dynamic Centroids  Jing-Doo Wang and Hsiang-Chuan Liu Expert Systems with Applications,    October 2011, Vol.38, Issue 11,     pp. 13764-13772. (SCI)(2011     JCR, IF=2.203, Rank=22/111,COMPUTER  SCIENCE, ARTIFICIAL INTELLIGENCE) 
+ Evaluating the Ambiguities Between Two Classes via Euclidean     Distance Jing-Doo Wang and Hsiang-Chuan Liu   Asian Journal of Health and Information Sciences, March 2009, Vol. 4,     No. 1, pp. 21-35
+Scaling behavior of Maximal Repeat Distributions in Genomic Sequences J.D. Wang, Hsiang-Chuan Liu, Jeffrey J.P. Tsai     and Ka-Lok Ng.   The International Journal of Cognitive Informatics and Natural    Intelligence (IJCiNi) , 2008, 2(3), pages 31~42 
+ External memory approach to compute the maximal repeats across classes from DNA sequences Jing-Doo Wang,   Asian Journal of Health and Information Sciences, 2006, Vol. 1,    Number 3, pages 276-295   (A previous version of conference paper was published in NCS    2005) 
+ Improving Linear Classifier for Chinese Text Categorization   Jyh-Jong Tsay and Jing-Doo Wang   The Journal of Information Processing and Management(IP&M).(EI,     SCI Expanded)   Volume 40, Issue 2 , March 2004, pages 223-237 
+ Mining Periodic Events from Retrospective Chinese News Jing-Doo Wang and Jyh-Jong Tsay   International Journal of Computer Processing of Oriental    Languages(CPOL)    Vol. 15, No. 4 (December 2002) , pages 361-377   Special Issue: Web and WAP Oriental Languages Multimedia    Computing 
+ Design and Evaluation of Approaches for Automatic Chinese Text Categorization   Jyh-Jong Tsay and Jing-Doo Wang   International Journal of Computational Linguistics and Chinese    Language Processing (CLCLP)   Vol. 5, No. 2, August 2000, pages 43-58 
+   	  Reducing the Gap between Phenotypes and Genotypes via Comparing Tagged Whole Genomic Sequences Jing-Doo Wang  The 12th International Conference on Advancements in Bioinformatics and Drug Discovery,     (Adv.Bioinformatics 2018)     November 26-27, 2018 Dublin, Ireland (Journal of Proteomics \& Bioinformatics, ISBN 0974-276X, DOI 10.417/0974-276X-C5-1242) 
+ Constructing the Relationship Tree of All Viruses via Genomic Sequences  Jing-Doo Wang and Yi-Chun Wang The 18th annual IEEE International Conference on Bioinformatics and Bioengineering(BIBE 2018), page 10-13, October 29-31, 2018, Taichung, Taiwan. 
+ Analyzing the Regularities of Passengers according to Different Time Intervals via Local Electronic Bus System Data in Taiwan Jing-Doo Wang, Yao-Nan Lien and Shin Hung Pan* (*Corresponding author) The Institute for Operations Research and the Management Sciences(INFROMs 2018)     June 17-20, 2018, Taipei, Taiwan 
+ Extracting the Co-occurrences of DNA Maximal Repeats in both Human and Viruses Jing-Doo Wang, Yi-Chun Wang, Rouh-Mei Hu and Jeffrey Tsai The 17th IEEE International Conference on BioInformatics and BioEngineering (BIBE 2017) pages 106-111, October 23 – 25, 2017. Washington DC, U.S.A.
+ A Novel Approach to Improve Quality Control by Comparing the Tagged Sequences of Product Traceability Jing-Doo Wang   	  DOI (https://doi.org/10.1051/matecconf/201820105002)(Published online:14 September 2018)  2017 The 3rd International Conference on Inventions, 29 September–2 October 2017, Sun Moon Lake, Taiwan
+ A Novel Approach to Extract Significant Time Intervals of Vehicles from Superhighway Gantry Timestamp Sequences Jing-Doo Wang, and Ming-Chorng Hwang, 2017 IEEE International Conference on Applied System Innovation (IEEE ICASI 2017) May 13-17, 2017,Hotel emisia, Sapporo, Japan      (First Prize Paper Award)    (Extended version submitted to Applied Sciences as a Special Issue "Selected Papers from IEEE ICASI 2017") 
+Genome-wide Functional Identification of Maximal Consensus Patterns Derived from Multiple Species piRNAs      Wen-Ling Chan, Mei-Chun Yeh, Jing-Doo Wang, , Jan-Gowth Chang and Jeffrey Tsai The 16th annual IEEE International Conference on Bioinformatics and Bioengineering(BIBE2016), October 31 November 1, 2016, Taichung, Taiwan. 
+Mining Distinctive DNA Patterns from the Upstream of Human Coding\&Non-Coding Genes via Class Frequency Distribution  Jing-Doo Wang , Wen-Ling Chan, Charles C.N. Wang, Jan-Gowth Chang and Jeffrey J.P. Tsai 2016 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology(CIBCB 2016), 5th to 7th October 2016, Chiang Mai, Thailand. 
+A Study of Comparing the Ambiguity of Existing Virus Taxonomy Structures Using       Protein's Region Names in the Vector Space Model Jing-Doo Wang  2015 IEEE Conference on       Computational Intelligence in Bioinformatics and Computational Biology(CIBCB       2015), C-15004, August 12-15, 2015, Niagara Falls, Canada    
+Extracting Retrospective Patterns from Time-Stamped Texts According To Variable Query      Time Interval Jing-Doo Wang and Wijayanto Heri*, (*Corresponding author)     The International Multi-Conference on Engineering and Technology Innovation 2015  			(IMETI2015)October 30 - November 3, 2015, Kaohsiung,Taiwan. 
+Comparing Virus Classification using Genomic Materials according      to Different Taxonomic Levels Jing-Doo Wang The 24rd International Conference on Genome Informatics (GIW 2013), December 16-18, 2013, Singapore     (This paper is included as a special issue ofJournal of Bioinformatics and Computational Biology, Vol. 11, No. 6      1343003, 2013.a specialissue on GIW2013 (SCIE)(2013)    
+    (Poster)  Virus Classification via Genomic Sequences From Different      Taxonomic Level Jing-Doo Wang The 23rd International Conference on Genome Informatics (GIW 2012),page 76, December 12-14, 2012,National      Cheng Kung University,Tainan in Taiwan 
+     (Poster)      A Comparison study of Virus Classification by Genome Sequences Jing-Doo Wang The 11th       IEEE International Conference on Bioinformatics and Bioengineering,pages 270-273, 24-26      October 2011, Taichung, Taiwan. 
+A Novel Approach to Compute Pattern History for Trend Analysis. Jing-Doo Wang The 8th International       Conference on Fuzzy Systems and Knowledge Discovery,, pages 1796-1800      26-28 July 2011, Shanghai, China. (EI) 
+Evaluating the Ambiguity of Class Structures via Instance Neighbor Entropy with Weighting.
+     Evaluating the Ambiguity of Class Structure using Dynamic Centroids Jing-Doo Wang and Hsiang-Chuan Liu 2009 CACS International Automatic       Control Conference,page 87, Nov27-29, 2009,Taipei, Taiwan.       
+     A Novel Approach for Evaluating Class Structure Ambiguity Jing-Doo Wang, Hsiang-Chuan Liu, Yao-Chug Shi the International       Conference on Machine Learning and Cybernetics (ICMLC) , pages1550-1555 ,      July 12-15, 2009.(EI) 
+ Evaluating the Ambiguities of Class Structure via Euclidean      Distance Jing-Doo Wang. 2008 International Computer Symposium (ICS2008),       13-15 Nov, Taiwan, R.O.C,  Vol. 2, pages 293-298 
+ (Poster)       SCALING BEHAVIOR OF MAXIMAL REPEAT DISTRIBUTIONS IN      GENOME SEQUENCES Jing-Doo Wang, Shing-Chuan      Liu and Ng Ka-Lok. The        4th Asia-Pacific Bioinformatics Conference (APBC2006) ,13-16         Feb, 2006. 
+ Evaluating the Correlation Between Two Events From Retrospective Chinese News, Jing-Doo Wang and Jyh-Jong Tsay      International Conference on Chinese Language Computing(ICCLC2002).       2002, pages 1-7
+       Mining Periodic Events from the Chinese News Jing-Doo Wang and Jyh-Jong Tsay       International Conference on Chinese Computing, 2001(ICCC2001),pages 255-260,Singapore.
+        A Scalable Approach for Chinese Term Extraction        Jyh-Jong Tsay and Jing-Doo Wang        2000 International Computer Symposium (ICS2000), Taiwan, R.O.C, pages  246-253         
+         Improving Linear Classifier for Chinese Text Categorization By ErrorCorrection         Jyh-Jong Tsay and Jing-Doo Wang         The Fifth International Workshop on Information Retrieval with Asian Languages(IRAL2000) pages1--8, HongKong          
+ Implementation and Evaluation of Scalable Approaches for Automatic ChineseText Categorization         Jyh-Jong Tsay , Jing-Doo Wang , Chun-Fu Pai and Ming-Kuen Tsay         The 13th Pacific Asia Conference on Language, Information and Computation, 				pages 179-190,1999 
+台中市公車路線任意路段之搭乘人數交叉統計查詢系統-以西元2015和2016兩年資料為例 王經篤、潘信宏 【第十八屆離島資訊技術與應用研討會】特別議程（Big Data on Traffic and Transportation）	，2018年 5 月24-26日, 國立中興大學/惠蓀林場 
+提升Hadoop MapReduce計算效能之研究-以抽取樣式歷史為例 	陳彥棠、王經篤 2015中華民國系統科學與工程研討會，2015年 7 月17-19日,大同大學 
+ 	樣式歷史資料之形狀查詢-藉由Haar小波 王經篤、蔣中凱、陳瑞奇 2015年資訊科技國際研討會暨民生電子論壇 	The 9th International Conference on Advanced Information Technologies / Consumer Electronics Forum (AIT/CEF 2015), 2015年 4 月24、25 日,朝陽科技大學, pages 1239-1254 
+ 	社群網站使用者上線時段分析-以批踢踢為例  	郭佳霖、王經篤, 2014 數位科技與創新管理研討會,2014年6月14日,華梵大學 
+利用Hadoop建立文件樣式歷史資料索引之實作 王經篤、吳健瑋 	2014年第四屆網路智能與應用研討會,2014年 5 月 2、3 日,國立澎湖科技大學 
+ 	(Poster)A Novel Approach to Evaluate the Relative Distance of Proteins via Pearson correlation coefficient 	Chin-Han Chen, Yi-Chun Wang and Jing Doo Wang. 第10屆台灣生物資訊與系統生物學研討會(BIT2012),  	October 19-21, 2012,國立陽明 大學, pages 55-56 
+ 	A Study of Virus Classification via Genomic DNA Sequences 	Jing-Doo Wang and Jig-Fu Huang(黃進福) 第十屆離島資訊技術與應用研討會(ITAOI2011), 2011 年 5 月 13、14 日,國立臺東大學, page 44 
+A Study of Virus Classification via Coding Sequence (CDS) 	Jing-Doo Wangand Yong-Kai Lu(盧勇凱) 	 第一屆網路智能與應用研討會(NCWIA2011),  		2011年4月29日,國立高雄大學, page 88 
+ 	(Poster) Text Trend Analysis via Significant Term History - A study based on Indonesia News 	Jing-Doo Wangand Arie Budiansyah 	Student Symposium in Computer Science and Information Management, Taichung, Taiwan, August 4-6,2010. 
+ 	(Poster)關鍵字之趨勢研究-藉由PubMed文獻 	王經篤、廖益緯 	Student Symposium in Computer Science and Information Management, Taichung, Taiwan, August 4-6,2010. 
+ 	中華民國專利趨勢研究-藉由顯要事件歷史 	王經篤、劉宣榮  	2010數位內容與傳播應用學術研討會,pages 29-35,民國99年5月25日,醒吾技術學院
+ 	Evaluating the Ambiguity of Non-Linear Separable Class Structure via Instance Neighbor Entropy 	Jing-Doo Wangand Yao-Chug Shi(施耀竣) 第二十屆物件導向技術及應用研討會,page 54,Nov  	20,2009 ,東海大學 
+ 	中西藥交互作用知識管理資訊系統架構之研究－利用資料探勘技術建置 	賴建龍、李明明、林聖興、王經篤  2008全球服務科學管理理論與實務學術研討,Oct 17, 2008,國立彰化師範大學
+ 	中文新聞相關性事件之挖掘-藉由Haar小波轉換 	王經篤、楊季剛、廖益緯 Proceeding of National Computer Symposium 2007(NCS2007), Taiwan, R.O.C. 
+基因轉殖作物外來基因 BLAST 資料庫之建立 	王昭能、施仁國、王經篤、葉錫東、范宗宸  	Proceeding of National Computer Symposium 2007(NCS2007), Taiwan, R.O.C. 
+(Poster)A Genomic Study of Archaea regarding  	Oxygen Demand 	古菌相關於氧氣需求的基因體研究 	王經篤、胡若梅、張文褔、鄒佳芳 	The 23st Workshop on Combinatorial Mathematics and    Computational Theory 	第二十四屆組合數學與計算理論研討會,  	April 27~ 28, 2007 
+ 	An External Memory Approach to Compute the Statistics of Maximal Repeats from Whole Genome Sequences 	Jing-Doo Wang 	Proceeding of National Computer Symposium 2005 (NCS2005),  	page 84, Taiwan, R.O.C. 
+ 	DNA Sequences    Classification via Representative Patterns 	Jing-Doo Wang, 	The 7th Conference on Chinese Medicine and    Pharmacy, Engineering Technology and Applications to Chinese and Western    Medicine. 	第七屆工程科技與中西醫藥應用研討會,page 16, June 2004 
+ 	A Case Study of Predicting the Class of the    Unknown Viruses of ssRNA positive-strand in NCBI    	Jing-Doo Wang,  	The 21st Workshop on Combinatorial Mathematics and    Computational Theory 	第二十一屆組合數學與計算理論研討會, pages 249-256, May 2004, 	
+  	Jyh-Jong Tsay,     Yuan-Gu Wei, Jing-Doo Wang,    Proceeding of National Computer Symposium 2003(NCS2003),pages 369-376, Taiwan,     R.O.C.  
+ 有效中藥網路自動化搜尋資料庫  	  	 李明明, 林志敏,  	王經篤, 林英傑, 黃偉鳴,   	  Proceedings of    第六屆工程科技與中西醫學應用研討會, pp. 254-258, Sep 2003, 臺中, 台灣. 
+ 網際網路遠端監控- 水族箱管理 王經篤、何昱澄、劉彥良、陳宇作第三屆離島資訊技術與應用研討會, 2003, pages 278-283. 
+ Improving Linear Classifier for Chinese Text CategorizationJyh-Jong Tsay and 	Jing-Doo WangProceeding of National Computer Symposium 2001(NCS2001), pages B178-B188, Taiwan, R.O.C.  	
+ Comparing Classifiers for Automatic Chinese Text CategorizationJyh-Jong Tsay and 	Jing-Doo WangProceeding of National Computer Symposium 1999(NCS'99),pages B-274--B-281,   Taiwan, R.O.C.
+ 	Term Selection with Distributional Clustering for Chinese Text    Classification using N-gramsJyh-Jong Tsay and Jing-Doo Wang  ROCLING 1999, pages 151-170,1999. 	
+ (Master) Scalable Parallel Algorithm for All-Nearest-Neighbors ProblemsJyh-Jong Tsay and 	Jing-Doo WangProceeding of National Computer Symposium 1993(NCS'93), R.O.C. V.2. pages 955-962 	
+ 國立中正大學資訊工程所碩士論文(1993.6) 
+ 國立中正大學資訊工程所博士論文(2002.6) 
+   王經篤 ，"中文文件分類關鍵詞選擇方法的比較"，    澎技學報，第四期，民國 90 年 元月，pp. 227-243.   p>
